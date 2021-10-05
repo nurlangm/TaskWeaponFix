@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\bin\Debug\netcoreapp3.1\WeaponTask.exe
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\bin\Debug\netcoreapp3.1\WeaponTask.deps.json
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\bin\Debug\netcoreapp3.1\WeaponTask.runtimeconfig.json
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\bin\Debug\netcoreapp3.1\WeaponTask.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\bin\Debug\netcoreapp3.1\WeaponTask.dll
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\bin\Debug\netcoreapp3.1\WeaponTask.pdb
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\obj\Debug\netcoreapp3.1\WeaponTask.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\obj\Debug\netcoreapp3.1\WeaponTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\obj\Debug\netcoreapp3.1\WeaponTask.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\obj\Debug\netcoreapp3.1\WeaponTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\obj\Debug\netcoreapp3.1\WeaponTask.dll
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\obj\Debug\netcoreapp3.1\WeaponTask.pdb
+C:\Users\ASUS\source\repos\WeaponTask\WeaponTask\obj\Debug\netcoreapp3.1\WeaponTask.genruntimeconfig.cache
